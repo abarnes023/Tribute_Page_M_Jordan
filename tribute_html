@@ -1,0 +1,37 @@
+<div class="container">
+  <div class="jumbotron">
+    <div class="row">
+      <div class="col-xs-12">
+        <h1 class="text-center">Michael Jordan</h1>
+        <h3 class="text-center"><em>Air Jordan | The greatest of all time</em></h3>
+        <div class="thumbnail"><img class="img-responsive" src="http://wallpapercave.com/wp/yzZueM1.jpg" max-width="90%">
+          <div class="caption text-center">Michael Jordan was one of the most competitive players in the NBA of all time. His drive to win led him to greatness.</div>
+        </div>
+          <h3 class="text-center"><strong>Jordan's NBA Highlights</strong></h3>
+          <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+            <ul>
+              <li><strong>1984</strong>-Jordan is drafted by the Chicago Bulls with the third overall pick</li>
+              <li><strong>1985</strong>-the former UNC Tarheels star wins NBA Rookie of the Year</li>
+              <li><strong>1987-88</strong>-Averaging 35.0 ppg, leading the NBA, Jordan wins his first MVP award</li>
+              <li><strong>1991</strong>-The Bulls defeat the LA Lakers in the NBA finals under MJ's leadership</li>
+              <li><strong>1992</strong>-Jordan wins his second NBA finals and second Olympic Gold Medal with the "Dream Team"</li>
+              <li><strong>1993</strong>-Following the murder of his father, Michael Jordan announces his retirement from the NBA after winning the 1992-93 NBA finals</li>
+              <li><strong>1996-98</strong>-Jordan wins his 4th, 5th, and 6th NBA Finals and Finals MVP Awards</li>
+              <li><strong>2001-03</strong>-Comes out of retirement to play with the Washington Wizards</li>
+              <li><strong>2006</strong>-Managing member of Charlotte Bobcats</li>
+            </ul>
+            <hr>
+            <blockquote>
+              <p>I've failed over and over and over again in my life and that is why I succeed.</p>
+              <footer><cite>Michael Jordan</cite></footer>
+            </blockquote>
+            <hr>
+            <h3>If you would like to learn more about Micahel Jordan, his NBA career, and his life, follow this <a href="https://en.wikipedia.org/wiki/Michael_Jordan" target="_blank">link</a>.</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer class="text-center">
+    <p>Written and coded by <a href="https://www.linkedin.com/in/alexander-barnes-8b15b797" target="_blank">Alexander Barnes</a></p>
+  </footer>
+</div>
